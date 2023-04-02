@@ -3,7 +3,7 @@ DockerでのPHPの実行環境です。
 
 PHPのバージョンは8.0としていますが、`./docker/php/Dockerfile`を編集すれば変更できます。
 
-`./punlic`フォルダがドキュメントルートです。
+`./public`フォルダがドキュメントルートです。
 
 ## 使い方
 docker-compose.ymlがあるディレクトリで実行してください。
